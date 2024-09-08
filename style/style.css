@@ -47,3 +47,23 @@ li{
     color: white;
     font-weight: 700;
 }
+
+.header__content{
+    height: 800px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__content h1{
+    color: wheat;
+    font-size: 50px
+}
+.star {
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+    background: #F8CA00;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); 
+  }
